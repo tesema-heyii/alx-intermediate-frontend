@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tesema-heyii/alx-intermediate-frontend.git",
-    "div":"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+    "div": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
   },
   "license": "ISC",
   "author": "",
@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.11",
+    "sass": "^1.89.2",
     "tailwindcss": "^4.1.11"
   }
 }
