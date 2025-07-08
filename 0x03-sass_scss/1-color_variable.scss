@@ -3,6 +3,12 @@ guillaume@ubuntu:~/$ sass 1-color_variable.scss | tail -n +2
 
 body {
   color: #3D3D3D; 
+  margin: 0px;
+  padding: 0px;
+}
+
+body p {
+  margin: 10px;
 }
 
 p {
